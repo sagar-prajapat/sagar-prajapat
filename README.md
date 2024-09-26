@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Prajapat</h1>
 <h3 align="center">Developer from India skilled in Java, Python , C, SQL, JSP & Servlets</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/16e0dde72df503da93deb3ae09e77064587ec956e60109540eff93fc3e91ca3d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3835302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-prajapat13&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-prajapat13" /> </p>
 
