@@ -26,7 +26,7 @@
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40" style="filter:invert(38%) sepia(96%) saturate(676%) hue-rotate(92deg) brightness(102%) contrast(102%);"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40" style="filter: invert(31%) sepia(43%) saturate(327%) hue-rotate(180deg) brightness(103%) contrast(98%);"/>
 </a>
 
  </p>
