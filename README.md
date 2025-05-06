@@ -21,9 +21,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C programming" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
   <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/>
 </a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/H/hibernate-logo-3CEAA6A85A-seeklogo.com.png" alt="JPA / Hibernate" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
+
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-prajapat&show_icons=true&locale=en&layout=compact" alt="sagar-prajapat" /></p>
