@@ -123,14 +123,14 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=sagar-prajapat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagar-prajapat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-prajapat&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-prajapat&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
