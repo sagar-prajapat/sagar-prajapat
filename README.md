@@ -1,38 +1,133 @@
-
 <h1 align="center">Hi 👋, I'm Sagar Prajapat</h1>
-<h3 align="center">Developer from India skilled in Java ,C ,Springboot ,Thymeleaf ,JPA , RESTful API , Spring, Spring mvc , SQL, HTML, CSS, Bootstrap, JSP, JDBC & Servlets</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/16e0dde72df503da93deb3ae09e77064587ec956e60109540eff93fc3e91ca3d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3835302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966">
+<h3 align="center">
+Java Backend Developer | Spring Boot | Spring Security | REST APIs | JPA | Hibernate
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-prajapat13&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-prajapat13" /> </p>
+<img align="right" alt="Coding" width="380"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Advanced Java ,Springboot and spring**
-- 👨‍💻 All of my projects are available at [https://github.com/sagar-prajapat](https://github.com/sagar-prajapat)
-
-- 📫 How to reach me **sagarprajapat8696@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sagar-prajapat-566b92243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-prajapat" height="30" width="40" /></a><a href="https://leetcode.com/u/sagarprajapat/(https://leetcode.com/u/sagarprajapat/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar-prajapat" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=sagar-prajapat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C programming" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/>
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Spring Security, JWT & Microservices**
+- 💻 Passionate about **Java Backend Development**
+- 🔭 Working on **Spring Boot Projects**
+- 👨‍💻 Projects: https://github.com/sagar-prajapat
+- 📫 Email: **sagarprajapat8696@gmail.com**
+- 💬 Ask me about **Java, Spring Boot, REST API, JPA, Hibernate, SQL**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sagar-prajapat-566b92243/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+
+<a href="https://leetcode.com/u/sagarprajapat/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45"/>
 </a>
 
+<a href="mailto:sagarprajapat8696@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
 
- </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-prajapat&show_icons=true&locale=en&layout=compact" alt="sagar-prajapat" /></p>
+# 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-prajapat&show_icons=true&locale=en" alt="sagar-prajapat" /></p>
+<p align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-prajapat&" alt="sagar-prajapat" /></p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,html,css,bootstrap,git,github,vscode,eclipse,idea,c,cpp" />
+
+</p>
+
+---
+
+# 🚀 Skills
+
+✔ Java
+
+✔ Spring Boot
+
+✔ Spring MVC
+
+✔ Spring Security
+
+✔ REST APIs
+
+✔ Hibernate
+
+✔ JPA
+
+✔ JDBC
+
+✔ Servlets
+
+✔ JSP
+
+✔ SQL
+
+✔ MySQL
+
+✔ HTML
+
+✔ CSS
+
+✔ Bootstrap
+
+✔ Git
+
+✔ GitHub
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sagar-prajapat&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-prajapat&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-prajapat&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-prajapat&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sagar-prajapat&theme=onedark&margin-w=10"/>
+
+</p>
+
+---
+
+### ✨ Quote
+
+> "Code. Learn. Build. Repeat."
