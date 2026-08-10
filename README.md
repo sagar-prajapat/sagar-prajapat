@@ -125,11 +125,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=sagar-prajapat&theme=tokyonight&hide_border=true&show_icons=true" alt="Sagar Prajapat GitHub Stats" height="170" />
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagar-prajapat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagar-prajapat&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sagar-prajapat&layout=compact&theme=tokyonight&hide_border=true" alt="Sagar Prajapat Top Languages" height="170" />
 
 </p>
 
@@ -157,11 +155,7 @@
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sagar-prajapat&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sagar-prajapat&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="Sagar's GitHub Trophies" /> </p>
 
 ---
 
